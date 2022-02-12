@@ -80,7 +80,7 @@ $ python3 main.py
 
 - Docker Build Method
 ```bash
-$ git clone https://github.com/AsmSafone/MusicPlayer
+$ git clone https://github.com/PIESBOYBRO/MWMusicPlayer
 $ cd MusicPlayer
 $ cp sample.env .env
 # < edit .env with your own values >
